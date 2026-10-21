@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "passages": [
+    {
+      "id": "reading_01",
+      "level": "B1",
+      "title": "Working from home",
+      "text": "Remote work sounds simple: no commute, no office noise and more time for family. In practice, the line between work and rest can disappear. Many people answer messages late at night because their laptop is always nearby. Others feel they must prove they are busy, so they work longer than they would in an office. A useful solution is to create clear boundaries. Decide when the working day ends, put the laptop away and tell colleagues when you are unavailable. Productivity does not come from being online all the time; it comes from focused work and proper rest. Companies can help by trusting employees and judging results rather than hours.",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Remote work needs clear boundaries to be healthy and productive.",
+        "Remote workers are less productive than office workers.",
+        "Companies should stop using laptops after 6 p.m."
+      ],
+      "correct": 0,
+      "explanation": "Текст говорит о размывании границ и о том, что продуктивность зависит от фокуса и отдыха."
+    },
+    {
+      "id": "reading_02",
+      "level": "B1",
+      "title": "A city for people",
+      "text": "For decades, many cities were designed around cars. Wide roads and large car parks took space away from people. Today, some city planners are changing this approach. They create pedestrian zones, add benches and plant trees. They also improve public transport so that commuters do not need a car every day. These changes can reduce congestion and air pollution, but they can also cause problems for small shops that depend on drivers. The most successful projects listen to residents, test changes temporarily and adjust the plan when something does not work. A livable city is not built in one day; it is created through many small decisions.",
+      "question": "According to the passage, what makes a city project more likely to succeed?",
+      "options": [
+        "Building more roads for cars",
+        "Listening to residents and adjusting the plan",
+        "Closing all shops in the city centre"
+      ],
+      "correct": 1,
+      "explanation": "В тексте сказано, что успешные проекты слушают жителей и корректируют план."
+    },
+    {
+      "id": "reading_03",
+      "level": "B1",
+      "title": "Sleep and screens",
+      "text": "Many people check their phones in bed. The habit feels harmless, but it can affect sleep. Bright screens tell the brain that it is still daytime, so falling asleep takes longer. Notifications also create a small feeling of worry: a message might be important, so the brain stays alert. Experts do not always ask people to give up their phones completely. A more realistic step is to keep the phone outside the bedroom or to stop using it thirty minutes before bed. A short walk, a book or quiet music can help the body prepare for rest. Small changes are often easier to keep than strict rules.",
+      "question": "What does the writer recommend?",
+      "options": [
+        "Never using a phone in the evening",
+        "Making small changes such as keeping the phone out of the bedroom",
+        "Sleeping longer at the weekend"
+      ],
+      "correct": 1,
+      "explanation": "Автор советует реалистичные маленькие шаги, а не полный отказ от телефона."
+    },
+    {
+      "id": "reading_04",
+      "level": "B1",
+      "title": "Checking the news",
+      "text": "Fake news spreads quickly because it often makes people feel strong emotions. A shocking headline is more likely to be shared than a boring but accurate report. This does not mean that every surprising story is false. It means that readers need to slow down. Check who wrote the story, look for the original source and see whether other reliable organisations report the same facts. Photos and videos can also be old or taken from another situation. Media literacy is not about distrusting everything; it is about asking better questions before we share something with friends.",
+      "question": "What is the writer's attitude to surprising news?",
+      "options": [
+        "All surprising news is false.",
+        "Readers should check it before sharing.",
+        "People should stop using social media."
+      ],
+      "correct": 1,
+      "explanation": "Автор призывает проверять источник и факты, а не отвергать всё неожиданное."
+    },
+    {
+      "id": "reading_05",
+      "level": "B1",
+      "title": "Why volunteering helps",
+      "text": "Volunteering is often described as a gift to others, but volunteers also gain something. Working with a community group can teach practical skills, from organising events to speaking to strangers. It can also reduce loneliness because it creates regular contact with people who share a goal. However, volunteers need clear tasks and realistic time limits. If an organisation asks for too much, people become tired and stop coming. Good volunteering is a partnership: the charity explains what is needed, and the volunteer is honest about how much time they can give. Everyone benefits when the arrangement is fair.",
+      "question": "What is necessary for volunteering to work well?",
+      "options": [
+        "Volunteers should work as many hours as possible.",
+        "Charities should pay volunteers for their time.",
+        "Tasks and time limits should be clear and realistic."
+      ],
+      "correct": 2,
+      "explanation": "В тексте подчёркнуты ясные задачи и реалистичные временные рамки."
+    }
+  ]
+}
